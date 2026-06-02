@@ -1,0 +1,134 @@
+{
+	"$schema": "https://schema.rtemis.org/a3/v1/schema.json",
+	"a3_version": "1.0.0",
+	"sequence": "MAEPRQEFEVMEDHAGTYGLGDRKDQGGYTMHQDQEGDTDAGLKESPLQTPTEDGSEEPGSETSDAKSTPTAEDVTAPLVDEGAPGKQAAAQPHTEIPEGTTAEEAGIGDTPSLEDEAAGHVTQEPESGKVVQEGFLREPGPPGLSHQLMSGMPGAPLLPEGPREATRQPSGTGPEDTEGGRHAPELLKHQLLGDLHQEGPPLKGAGGKERPGSKEEVDEDRDVDESSPQDSPPSKASPAQDGRPPQTAAREATSIPGFPAEGAIPLPVDFLSKVSTEIPASEPDGPSVGAAKGQDAPLEFTFHVEITPNVQKEQAHSEEHAGRAAFPGAPGEGPEARGPSLGEDTKEADLPEPSEKQPAAAPRGKPVSRVPQLKARMVSKSKDGTGSDDKKAKTSTRSSAKTLKNRPCLSPKHPTPGSSDPLIQPSSPAVCPEPPSSPKYVSSVTSRTGSSGAKEMKLKGADGKTKIATPRGAAPPGQKGQANATRIPAKTPPAPKTPPSSGEPPKSGDRSGYSSPGSPGTPGSRSRTPSLPTPPTREPKKVAVVRTPPKSPSSAKSRLQTAPVPMPDLKNVKSKIGSTENLKHQPGGGKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHVPGGGNKKIETHKLTFRENAKAKTDHGAEIVYKSPVVSGDTSPRHLSNVSSTGSIDMVDSPQLATLADEVSASLAKQGL",
+	"annotations": {
+		"site": {},
+		"region": {},
+		"ptm": {},
+		"processing": {
+			"CTSL_pH_4_5": {
+        "index": [
+				1, 9, 11, 13, 19, 21, 30, 44, 49, 54, 67, 71, 76, 81, 116, 129, 173,
+				198, 227, 229, 244, 254, 256, 257, 261, 267, 281, 283, 300, 307, 310,
+				314, 316, 319, 326, 340, 341, 351, 355, 377, 379, 394, 395,
+				402, 405, 417, 419, 421, 426, 427, 429, 433, 437, 438
+			],
+      "type": "cleavage"
+      },
+			"CTSL_pH_5_5": {
+        "index": [54, 244, 319],
+        "type": "cleavage"
+      },
+			"CTSD_pH_3_4": {
+        "index": [340, 391, 426],
+        "type": "cleavage"
+      },
+			"CTSD_pH_4_5": {
+        "index": [340, 399, 400, 417],
+        "type": "cleavage"
+      },
+			"CTSB_pH_4_5": {
+        "index": [
+				7, 12, 15, 17, 30, 53, 82, 130, 186, 209, 225, 237, 238, 257, 259, 262,
+				264, 282, 284, 321, 349, 353, 407, 438
+			],
+      "type": "cleavage"
+      },
+			"CTSB_pH_5_5": {
+        "index": [
+				14, 17, 27, 81, 173, 186, 209, 225, 238, 253, 256, 257, 259, 262, 264,
+				284, 290, 338, 349, 353
+			],
+      "type": "cleavage"
+      },
+			"CTSK_pH_4_5": {
+        "index": [
+				1, 21, 30, 44, 109, 184, 214, 244, 254, 261, 319, 326, 343, 355,
+				377, 399, 421
+			],
+      "type": "cleavage"
+      },
+			"CTSF_pH_4_5": {
+        "index": [300, 402],
+        "type": "cleavage"
+      },
+			"CTSV_pH_3_4": {
+        "index": [
+				248, 254, 276, 285, 307, 314, 316, 340, 351, 361, 395, 433
+			],
+      "type": "cleavage"
+      },
+			"CTSV_pH_4_5": {
+        "index": [
+				1, 11, 21, 30, 44, 244, 254, 256, 257, 276, 283, 285, 288,
+				316, 326, 340, 351, 361, 379, 381, 394, 395, 407, 425, 426, 429,
+				433
+			],
+      "type": "cleavage"
+      },
+			"CTSE_pH_3_4": {
+        "index": [
+				8, 9, 11, 21, 30, 44, 73, 81, 109, 129, 244, 254, 257, 261, 283, 288,
+				307, 310, 319, 326, 340, 351, 355, 395, 418, 419, 425, 426, 433
+			],
+      "type": "cleavage"
+      },
+			"CTSE_pH_4_5": {
+        "index": [8, 111, 307, 322, 419, 425],
+        "type": "cleavage"
+      },
+			"CTSS_pH_4_5": {
+        "index": [
+				1, 5, 7, 9, 12, 30, 44, 49, 67, 72, 76, 80, 95, 105,
+				212, 243, 244, 254, 257, 267, 276, 283, 288, 307, 308, 309, 310, 316,
+				339, 345, 351, 355, 361, 391, 394, 395, 400, 407, 411, 412, 420, 425,
+				426, 427, 429, 433
+			],
+      "type": "cleavage"
+      },
+			"CTSS_pH_5_5": {
+        "index": [
+				1, 11, 12, 30, 44, 49, 67, 72, 76, 80, 92, 95, 109, 115, 129, 243,
+				244, 254, 256, 257, 261, 267, 283, 288, 307, 308, 310, 316, 319, 326,
+				339, 351, 355, 361, 379, 391, 394, 395, 400, 407, 411, 412,
+				423, 425, 426, 427, 429
+			],
+      "type": "cleavage"
+      },
+			"CTSO_pH_5_5": {
+        "index": [92, 212, 339, 430],
+        "type": "cleavage"
+      },
+			"AEP_pH_4_5": {
+        "index": [
+				40, 49, 54, 67, 116, 209, 212, 252, 255, 265, 279, 286, 327, 339,
+				345, 361, 368, 381, 402, 418, 423, 430
+			],
+      "type": "cleavage"
+      },
+			"AEP_pH_5_5": {
+        "index": [67, 92, 265, 284, 339, 345, 368, 423, 430],
+        "type": "cleavage"
+      },
+			"CTSX_pH_3_4": {
+        "index": [16, 41, 67, 112, 212, 339, 345, 402, 423, 430],
+        "type": "cleavage"
+      },
+			"CTSX_pH_4_5": {
+        "index": [3, 16, 67, 212, 339, 345, 355, 394, 432, 433],
+        "type": "cleavage"
+      },
+			"CTSA_pH_4_5": {
+        "index": [48, 55, 67, 73, 339, 430],
+        "type": "cleavage"
+      }
+		},
+		"variant": []
+	},
+  "metadata": {
+    "uniprot_id": "P10636",
+    "description": "Tau cathepsin cleavage sites",
+    "reference": "https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-023-00621-8"
+		}
+}
